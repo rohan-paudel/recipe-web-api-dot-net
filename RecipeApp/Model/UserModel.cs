@@ -6,7 +6,6 @@ namespace RecipeApp.Model
 	public class UserModel : BaseModel
 	{
 
-
 		[Required, MinLength(2), MaxLength(50)]
 		public string UserName { get; set; }
 

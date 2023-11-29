@@ -1,19 +1,40 @@
 ﻿<Properties StartupConfiguration="{EA1AAADB-0367-42A4-B9DA-0E091419CB81}|https">
-  <MonoDevelop.Ide.ItemProperties.RecipeApp PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RecipeApp PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/AuthController.cs">
     <Files>
-      <File FileName="Program.cs" Line="90" Column="32" />
+      <File FileName="Program.cs" />
       <File FileName="Data/RecipeContext.cs" />
       <File FileName="Model/RecipeModel.cs" />
       <File FileName="Model/UserModel.cs" />
       <File FileName="Model/BaseModel.cs" />
       <File FileName="appsettings.json" />
+      <File FileName="Controllers/AuthController.cs" Line="26" Column="1" />
+      <File FileName="Controllers/UsersController.cs" />
+      <File FileName="DTOs/UserDTO.cs" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RecipeApp">
+            <Node name="RecipeApp">
+              <Node name="Controllers" expanded="True">
+                <Node name="AuthController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="DTOs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
