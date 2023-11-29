@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "hCMVh2F3UhqolYDp3z4JJTgu+1/8HwTnNR4xkPgGVzg+ShnPqp78q1Ys9QQ5dscw0jrFBlNEAIZNCRP3xFllKg==",
+  "success": true,
+  "projectFilePath": "/Users/hamroacademy/Projects/RecipeApp/RecipeApp/RecipeApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/hamroacademy/.nuget/packages/microsoft.aspnetcore.openapi/7.0.12/microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",
+    "/Users/hamroacademy/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/hamroacademy/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/hamroacademy/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/hamroacademy/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/hamroacademy/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/hamroacademy/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
